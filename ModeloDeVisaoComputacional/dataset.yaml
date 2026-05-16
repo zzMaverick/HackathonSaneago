@@ -1,0 +1,7 @@
+path: /Users/joaopedrolima/Documents/hackathonSaneago/HackathonSaneago/ModeloDeVisaoComputacional/dataset
+
+train: images/train
+val: images/val
+
+names:
+  0: objeto
